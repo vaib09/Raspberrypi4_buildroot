@@ -8,6 +8,7 @@ https://buildroot.org/download.html
  make menuconfig
  press / 
  type i2c enable it
+ thermal
  that's the condition for installing the tmp102 packet.
  Symbol: SENSORS_TMP102 [=y]Type  : tristatePrompt: Texas Instruments TMP102  
  Location:    -> Device Drivers      -> Hardware Monitoring support (HWMON [=y])  
